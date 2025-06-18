@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Niholasm
-- 🌱 I’m currently learning Rust and HOI4 stuff
-- 💞️ I’m looking to collaborate on stop. I am already comitted to this HOI4 project Code-Geass
+- 🌱 I'm currently working on a HOI IV overhual mod called Code Geass - Black Requiem.
 - 📫 How to reach me email
 
 <!---
